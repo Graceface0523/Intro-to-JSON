@@ -1,0 +1,77 @@
+{
+	"name": [
+		"Sarah",
+		"Grace",
+		"Joann",
+		"Morgan",
+		"Stacey",
+		"Kristie"
+	],
+	"occupation": [
+		"server",
+		"therapist",
+		"chef",
+		"engineer",
+		"vet"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #message# from #youtube#. This #caused# her to #move# to #california# for #free#, this could be you #today#!"
+	],
+	"always": [
+		"never",
+		"rarely",
+		"regularly",
+		"at no time",
+		"always"
+	],
+	"expecting": [
+		"hopeful",
+		"awaiting",
+		"imagining",
+		"anticipating",
+		"expecting"
+	],
+	"youtube": [
+		"google",
+		"twitter",
+		"facebook",
+		"youtube"
+	],
+	"message": [
+		"call",
+		"flyer",
+		"email",
+		"mail",
+		"message"
+	],
+	"caused": [
+		"secured",
+		"provoked",
+		"compeled",
+		"caused"
+	],
+	"california": [
+		"florida",
+		"new york",
+		"seattle",
+		"california"
+	],
+	"free": [
+		"no money ",
+		"no cost",
+		"a comp",
+		"free"
+	],
+	"today": [
+		"now",
+		"at this moment ",
+		"even now",
+		"today"
+	],
+	"move": [
+		"fly ",
+		"travel",
+		"drive",
+		"move"
+	]
+}
